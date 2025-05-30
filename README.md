@@ -15,7 +15,7 @@ We thank our collaborators for their expertise in the study presented on 8th Jun
 | 6 | Edona Kollcaku | School Golem |
 | 7 | Lorela Garuli | Studio Psikologjie Humanum |
 | 8 | Manolita Hida | Shërbime Psikologjike "Sol" |
-| 9 | Klarisa Canaj | Kopshti "101 Dalmatet"/Klinika Logopedike INI'S |
+| 9 | Klarisa Canaj | Klinika Logopedike INI'S |
 | 10 | Silvana Site  | School " Dalip Bakiu" Gegë Kuçovë  |
 | 11 | Lulzim Shabani  | ZA Kucove |
 | 12 | Eglantina Hysenaj | School 28 Nentori |
@@ -23,7 +23,7 @@ We thank our collaborators for their expertise in the study presented on 8th Jun
 | 14 | Enkelana Elmasllari | Dalip Bakiu |
 | 15 | Erjus Hoxha | SHB "Aleksandër Markaçini" |
 | 16 | Anisa Hoxha | SHB "ALEKSANDËR MARKAÇINI" |
-| 17 | Leonard Bakiaj. | Mesues cu. |
+| 17 | Leonard Bakiaj. | School |
 | 18 | Rudina Stefa  | School Ymer Dishnica  |
 | 19 | Juliana Velçani | School |
 | 20 | Jorkida Agalliu | School |
@@ -32,8 +32,8 @@ We thank our collaborators for their expertise in the study presented on 8th Jun
 | 23 | Aurora Toromani | SHB Aleksander Markacini |
 | 24 | Juliana Xharda  | School " Aleksander Markaçini"  |
 | 25 | Dorina Marra | SHB Aleksander Markacini |
-| 26 | Xhena Mucllari | Selim Gjona |
-| 27 | Emilena Fili | Arsim |
+| 26 | Xhena Mucllari |School Selim Gjona |
+| 27 | Emilena Fili | School |
 | 28 | Anisa Hoxha | SHB Aleksandër Markaçini  |
 | 29 | Majlinda Marra  | Shb Aleksandër Markaçini |
 | 30 | Eriselda Raseni | School |
@@ -43,15 +43,15 @@ We thank our collaborators for their expertise in the study presented on 8th Jun
 | 34 | Liri Shyti | School " Aleksander Markaçini" |
 | 35 | Elfrida Plaku | School Havaleas |
 | 36 | Albina Paja  | School "Dalip Bakiu" Gege |
-| 37 | Klea Prodani | Gjimnaz |
+| 37 | Klea Prodani | School |
 | 38 | Olia Nasto | School |
-| 39 | Fëllëza Kotollaku | Arsim |
+| 39 | Fëllëza Kotollaku | School |
 | 40 | Ervin Jorgji  | School "Aleksandër Markaçini", Havaleas, Kuçovë. |
 | 41 | Marsida Zyfi | School Dritero Agolli Bilisht |
 | 42 | Elona Bega | School "Dalip Bakiu"Gegë |
 | 43 | Endrion Luzi | School Gegë |
-| 44 | Aldiona Gjera  | Arsim Parashkollor |
-| 45 | Saimira Xhelili  | Dalip Bakiu |
+| 44 | Aldiona Gjera  | School |
+| 45 | Saimira Xhelili  |School Dalip Bakiu |
 | 46 | Vasjan Ballço |School “Ymer Dishnica” |
 | 47 | Vjollca Maro | School Dalip Bakiu Gege |
 | 48 | Johan Sholls | School Sadik Dilka ,Voskop |
