@@ -1,7 +1,9 @@
 # Evaluating-Chatbot-Responses-to-Child-Development-Scenarios-An-Expert-Based-Study
+Denisa MILLO, Blerina VIKA, Leticja GUSHO, 
 
-We thank our collaborators for their expertise in the study presented in CHAI 2025, during 5-8 June 2025, California, USA. 
-The University of Berkeley organizes the activity and focuses on discussing the latest challenges in Human-AI Interaction.
+The University of Berkeley and CHAI organize the Workshop from 5-8 June 2025, California, USA. 
+The activity focuses on discussing the latest challenges in Human-AI Interaction.
+We thank our collaborators for their expertise in the study presented on 8th June.
 
 | NR | Name Surname of the psychologist/social worker/teacher | Institution |
 |----|---------------|-------------|
@@ -92,6 +94,9 @@ The University of Berkeley organizes the activity and focuses on discussing the 
 | 85 | Brunilda Hoxhallari  | School |
 | 86 | Lorida Tahiraj  | School  |
 | 87 | Irida Tase | School "Ymer Dishnica" , "Raqi Qirinxhi" |
+| 88 | Mirela Kapedani | School "Asdreni "ne Korce |
+| 89 | Florentina Sheta  | School Dome Nikolle Kacorri  |
+| 90 | Irena Xhaferri | Universitety of Elbasan |
 
 
 
