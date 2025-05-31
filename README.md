@@ -1,5 +1,6 @@
 # Evaluating-Chatbot-Responses-to-Child-Development-Scenarios-An-Expert-Based-Study
-Denisa MILLO, Blerina VIKA, Leticja GUSHO, 
+D., Millo1 B.Vika1,L.Gusho1,I.Xhaferri2,L.Garuli3,M.Hida3,S.Jaupi3,S.Daberdini3,K.Canaj3,A.Collaku3,E.Murja3,O.Topollaj3
+
 
 The University of Berkeley and CHAI organize the Workshop from 5-8 June 2025, California, USA. 
 The activity focuses on discussing the latest challenges in Human-AI Interaction.
@@ -97,6 +98,13 @@ We thank our collaborators for their expertise in the study presented on 8th Jun
 | 88 | Mirela Kapedani | School "Asdreni "ne Korce |
 | 89 | Florentina Sheta  | School Dome Nikolle Kacorri  |
 | 90 | Irena Xhaferri | Universitety of Elbasan |
+
+
+1.State Univesity of Tirana,Albania
+2.State University of Elbasan, Albania
+3.Expert_List Contributers in github 
+
+
 
 
 
