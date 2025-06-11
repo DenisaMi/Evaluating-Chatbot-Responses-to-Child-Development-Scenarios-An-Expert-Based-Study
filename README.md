@@ -100,7 +100,7 @@ We thank our collaborators for their expertise in the study presented on 8th Jun
 | 90 | Irena Xhaferri | Universitety of Elbasan |
 
 
-11.IT project Manager and Consultant at C-7 Integrated Communication system/State University of Tirana
+11.IT project Manager and Consultant at Report Tv group/University assis. Lectureer at State University of Tirana
 1.State Univesity of Tirana,Albania
 2.State University of Elbasan, Albania
 3.Expert_List Contributers in github 
