@@ -1,5 +1,5 @@
 # Evaluating-Chatbot-Responses-to-Child-Development-Scenarios-An-Expert-Based-Study
-D.Millo11 B.Vika1,L.Gusho1,I.Xhaferri2,L.Garuli3,M.Hida3,S.Jaupi3,S.Daberdini3,K.Canaj3,A.Collaku3,E.Murja3,O.Topollaj3
+D.Millo11 B.Vika1,L.Gusho1,I.Xhaferri2,L.Garuli3,M.Hida3,S.Jaupi3,S.Daberdini3,K.Canaj3,A.Collaku3,E.Murja3,O.Topollaj3,M.Kapedani3,F.Sheta3
 
 
 The University of Berkeley and CHAI organize the Workshop from 5-8 June 2025, California, USA. 
